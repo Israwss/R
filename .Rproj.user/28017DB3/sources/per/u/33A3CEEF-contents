@@ -1,0 +1,5 @@
+edad<-25
+nombre<-"Israel"
+print(edad)
+library(ggplot2)
+install.packages("ggplot2")
